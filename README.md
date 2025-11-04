@@ -32,11 +32,6 @@ Analysis of the following is performed in this Project:
 
 
 
-#  Dataset of Bangalore
-Download the dataset for this project from following Link -
-* [Swiggy Data Analysis Dataset](https://github.com/striver005/Swiggy-Data-Analysis/blob/master/data/Swiggy%20Bangalore%20Outlet%20Details.csv)
-
-
 #  Data Analysis
 In the datasets Following features (columns) are given:
 
@@ -88,3 +83,4 @@ Out of the 5 features  2 are Continuous and 3  are Categorical features.
     •	In HSR Area, "North Indian" Cuisines are dominated by around '14.3%' followed by "Chinese" & "South Indian" Cuisines '9.52%' & '9.52%' Restaurants respectively.
     •	In Koramangala Area, "Chinese" Cuisines are dominated by around '10.3%' followed by "North Indian" & "South Indian" Cuisines '9.66%' & '7.59%' Restaurants respectively.
     •	Furthermore, we have also been analyzed Cheapest/Expensive & Highest Rated Restaurants with Approx. Cost for 2 People and many more.
+
